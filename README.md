@@ -1,3 +1,6 @@
+![image](https://github.com/talren95/tableau-citibike-challenge/assets/152814692/f604c517-7e56-475a-b59d-73a31781bffc)
+
+
 # Tableau CitiBike Analysis
 
 Link to Tableau File can be found here: https://public.tableau.com/app/profile/talren95/viz/M18_CitiBike_Analysis/CitiBikeStoryAnalysis
