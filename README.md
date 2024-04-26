@@ -1,4 +1,4 @@
-![image](https://github.com/talren95/tableau-citibike-challenge/assets/152814692/f604c517-7e56-475a-b59d-73a31781bffc)
+![image](https://github.com/talren95/tableau-citibike-challenge/assets/152814692/bf7d3d17-3633-4450-bf61-f156bbad2fe7)
 
 
 # Tableau CitiBike Analysis
