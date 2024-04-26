@@ -1,8 +1,8 @@
-![image](https://github.com/talren95/tableau-citibike-challenge/assets/152814692/f89cad7c-aeb0-41fd-a738-6f06deb4ddcd)
-
 # Tableau CitiBike Analysis
 
 Link to Tableau File can be found here: https://public.tableau.com/app/profile/talren95/viz/M18_CitiBike_Analysis/CitiBikeStoryAnalysis
+
+![image](https://github.com/talren95/tableau-citibike-challenge/assets/152814692/f89cad7c-aeb0-41fd-a738-6f06deb4ddcd)
 
 ## CitiBike Usage in January: Analysis of Trends and Usage Patterns
 The usage patterns of CitiBike, New York City's bike-sharing service, often reflect broader social and cultural trends. Analyzing the data for January, several factors contribute to variations in usage rates throughout the month. This analysis explores why the first few days of January showed lower-than-average usage and why there was a significant dip in usage on January 15. Additionally, it examines typical start and end times for CitiBike journeys, suggesting a pattern that aligns with common work schedules in the United States.
